@@ -119,5 +119,5 @@ This project is for academic and research purposes under fair use. Contact autho
 
 ## Repository
 
-GitHub:https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
+GitHub:(https://github.com/Purusothaman-C/Sentiment-Analysis.git)
 
