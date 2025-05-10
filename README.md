@@ -32,7 +32,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
+   git clone https://github.com/Purusothaman-C/Sentiment-Analysis.git
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -108,8 +108,8 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 |-------------------|----------------------------------------|------------------------------------------------------------------------------|
 | Ranjith Kumar S   | [@Ranjith-Kumar](https://github.com/Ranjith-Kumar-CSE) | Project planning, preprocessing, VADER integration, documentation           |
 | Purusothaman C    | [@Purusothaman-C](https://github.com/Purusothaman-C) | Data sourcing, EDA, visualization                                            |
-| Sivaneshan S      | [GitHub](https://github.com/sivaneshans) | Feature engineering, sentiment labeling                                      |
-| Somasundaram D    | [GitHub](https://github.com/somasundaramd) | Testing across datasets, debugging, documentation support                   |
+| Sivaneshan S      | [@Sivaneshan07](https://github.com/Sivaneshan07) | Feature engineering, sentiment labeling                                      |
+| Somasundaram D    | [@Somasundaram-D](https://github.com/Somasundaram-D) | Testing across datasets, debugging, documentation support                   |
 
 
 
